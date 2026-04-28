@@ -1,8 +1,0 @@
-{
-  "name": "image-background-remover",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "@imgly/background-removal": "^1.5.0"
-  }
-}
